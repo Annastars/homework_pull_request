@@ -145,3 +145,5 @@ git branch --help
 9. **cd**
 
 10. **PULL REQUEST**
+
+## *NOTHING GREAT IS COMING EASY*
